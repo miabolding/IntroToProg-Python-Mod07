@@ -1,0 +1,17 @@
+[
+    {
+        "first_name": "Henry",
+        "last_name": "Ford",
+        "course_name": "Python 100"
+    },
+    {
+        "first_name": "Jonhanson",
+        "last_name": "Deers",
+        "course_name": "Python 201"
+    },
+    {
+        "first_name": "Hellen",
+        "last_name": "Hao",
+        "course_name": "Python 200"
+    }
+]
